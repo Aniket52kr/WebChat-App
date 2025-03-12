@@ -1,4 +1,4 @@
-# Chat Application MERN-Stack Web Application.
+# WebChat Application Using MERN-Stack.
 
 
 ## Project Overview
@@ -95,4 +95,3 @@ Open `http://localhost:5173` in your web browser.
 
 
 ## Project ScreenShot
-
